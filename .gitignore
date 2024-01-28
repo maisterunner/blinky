@@ -1,0 +1,4 @@
+﻿# Ignore datasheets
+*.pdf
+# Ignore backups
+*.bak
